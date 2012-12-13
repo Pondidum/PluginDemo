@@ -55,7 +55,7 @@ namespace PluginDemo.Host
             Assembly.Load(name);
         }
 
-        public IPlugin ShowCrossDomainPolutionExceptions()
+        public IPlugin ShowCrossDomainPollutionExceptions()
         {
             return _plugins.First();
         }
