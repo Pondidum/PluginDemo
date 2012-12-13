@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PluginDemo.Common", "PluginDemo.Common\PluginDemo.Common.csproj", "{2DC4117F-CDBF-47D4-8F43-1771E57C3476}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestPluginOne", "TestPluginOne\TestPluginOne.csproj", "{343C0D11-BDE1-4FE5-9BFD-3A3DAE3DAE0A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PluginDemo.Host", "PluginDemo.Host\PluginDemo.Host.csproj", "{31BB4879-9F60-4418-8320-51AA171AFA1C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2DC4117F-CDBF-47D4-8F43-1771E57C3476}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DC4117F-CDBF-47D4-8F43-1771E57C3476}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DC4117F-CDBF-47D4-8F43-1771E57C3476}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DC4117F-CDBF-47D4-8F43-1771E57C3476}.Release|Any CPU.Build.0 = Release|Any CPU
+		{343C0D11-BDE1-4FE5-9BFD-3A3DAE3DAE0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{343C0D11-BDE1-4FE5-9BFD-3A3DAE3DAE0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{343C0D11-BDE1-4FE5-9BFD-3A3DAE3DAE0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{343C0D11-BDE1-4FE5-9BFD-3A3DAE3DAE0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31BB4879-9F60-4418-8320-51AA171AFA1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31BB4879-9F60-4418-8320-51AA171AFA1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31BB4879-9F60-4418-8320-51AA171AFA1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31BB4879-9F60-4418-8320-51AA171AFA1C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
